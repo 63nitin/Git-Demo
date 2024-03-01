@@ -1,3 +1,4 @@
 # Git-demo
 This is my git learning repo through Apana College YouTube channel.
-Teacher - Shradha Khapra
+<br>
+<h1>Teacher</h1> - Shradha Khapra
